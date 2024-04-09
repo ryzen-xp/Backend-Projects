@@ -12,7 +12,7 @@ const con = sql.createConnection({
   host: 'localhost',
   port: 3306,
   user: 'admin',
-  password: 'Ryzen@123',
+  password: '********',
   database : "students_db"
 });
 
